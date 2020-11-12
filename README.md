@@ -1,6 +1,9 @@
 # DSRPeru_imblearn
 An example on how to apply an strategy to the challenge of dealing with imbalanced datasets<br /> 
 <br /> 
+An intuitive video walkthrough of this example:
+https://www.facebook.com/watch/?v=674554573265171
+<br /> 
 Step 1:<br /> 
 Fitting 4 models (logistic regression, svm, random fores, ann) with randomly generated imbalanced dataset. The purpose is to set a baseline to compare with. Estimating model recall using cross-validation.<br /> 
 -IMB CLASS-CV.ipnyb<br /> 
